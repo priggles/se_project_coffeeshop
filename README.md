@@ -13,4 +13,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Suggestions for Improvement:
+
+Make sure the brief and checklist match up for each project to ensure no conflicting/contradictory instructions.
+
+Include examples of common mistakes and how to avoid them. This can help students learn from others’ errors and improve their own coding practices.
